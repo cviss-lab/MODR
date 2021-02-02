@@ -1,5 +1,7 @@
 <img align="left" src="misc/logo.jpg">
 
+<br /><br /><br /><br /><br /><br />
+
 ### [CVISS Research](http://www.cviss.net/)
 
 
